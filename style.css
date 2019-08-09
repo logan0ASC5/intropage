@@ -1,0 +1,52 @@
+body{
+    background:linear-gradient(to bottom, white ,cyan, white,cyan)
+}
+.logo{
+    width: 200px;
+}
+
+.head{
+    display: flex;
+ justify-content: space-between;
+}
+
+h5{
+    padding-bottom: 10px;
+}
+
+g{
+    background-image: linear-gradient(blue, white, blue);
+
+}
+
+p{
+    font-family: muli;
+    font-size:20px;
+}
+
+.week1{
+    border-style: solid;
+    padding:20px;
+    
+}
+.week2{
+    margin-top:10px;
+    border-style:solid;
+    padding:20px;
+
+}
+.week3{
+border-style:solid;
+margin-top:10px;
+padding:20px;
+}
+.week4{
+    border-style:solid;
+    margin-top:10px;
+    padding:20px;
+}
+.week5{
+    border-style:solid;
+    margin-top:10px;
+    padding:20px;
+}
